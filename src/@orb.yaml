@@ -1,0 +1,8 @@
+---
+version: 2.1
+
+description: |
+  Feedyard/secrets is an example set of shared commands for accessing common secrets managers
+  within a pipeline. Orb source code - https://github.com/feedyard/orb-secrets
+
+  
